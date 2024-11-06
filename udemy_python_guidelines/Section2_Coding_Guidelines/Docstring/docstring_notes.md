@@ -37,3 +37,7 @@ Docstrings should be only needed if is really needed. Otherwise type annotations
 ```
 
 By adding this to the settings.json will automatically help you to generate documentation.
+
+## pydocstyle
+
+It is a tool to evaluate the docstring and return the lines where it doesnt follow the conventions.
