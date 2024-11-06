@@ -42,3 +42,22 @@ However, comments are needed if a formula or an expression needs to be described
 - Functions and Variables: Lowercase with underscore --> Snake case.
 - Constant values: UPPERCASE or UPPERCASE with underscore.
 - Class variables: Camel case no underscore. Or Capitalized words.
+
+## Why do we need Linting tools
+
+When the project gets more and more complex the chances of bugs gets more factible. And since no human is
+perfect we need tools to help us to find bugs before it happens.
+
+Linters are tools that help us to check certain things as PEP8 deviations, or code conventions? some logical errors
+and so on.
+
+## Why do we need formatters
+
+Tools in where we can pass one or multiple files to be made prettier by satusfying PEP8 guidelines automatically, since each line needs to have the appropriate format and number of spaces.
+
+## Important
+
+To generate the correct settings:
+
+1. > F1 (Command pallette)
+2. > Generate python config files.
